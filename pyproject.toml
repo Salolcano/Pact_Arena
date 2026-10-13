@@ -1,0 +1,8 @@
+[project]
+name = "pact-arena"
+version = "0.1.0"
+description = "Stake on public commitments. Validators judge every check-in."
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

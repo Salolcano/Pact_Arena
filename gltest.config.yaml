@@ -1,0 +1,5 @@
+network: studio
+rpc: https://studio.genlayer.com/api
+chain_id: 61999
+contract: contracts/pact_arena.py
+tests: tests
